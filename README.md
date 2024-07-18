@@ -1,5 +1,5 @@
 # University_Shop
-Book and Uniform ordering System developed using Java and SQL Database.
+Book and Uniform ordering System developed using Java Swing and SQL Database.
 
 _Poster to follow_
 
